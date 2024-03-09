@@ -44,5 +44,5 @@ for i in range(n-1):
 # print the answer shee shee
 for i in out:
   print(i, end = '')
-
+ 
 # Yeah I so happy because Replit finally unbanned my account:)))))
